@@ -42,9 +42,9 @@ by providing up-to-date best practices for teaching.
 * No "C/C++" : https://www.youtube.com/watch?v=YnWhqhNdYyk
 * No C-with-classes : just teach C or Java if you really want to do that.
 * No "Java/C++". Hint : if you are writing `new std::string`, there is something wrong.
-* No -fno-exceptions : exceptions are a core part of C++. They give all their meaning to [RAII][RAII], and except on 32-bit Windows are faster on the happy path than error codes.
+* No `-fno-exceptions` : exceptions are a core part of C++. They give all their meaning to [RAII][RAII], and except on 32-bit Windows are faster on the happy path than error codes.
   * It's easier to learn to not use exceptions if you already know them, than to learn to use exceptions if you don't.
-* No conio.h / iostream.h / graphics.h / whatever DOS-era API you can find.
+* No `conio.h` / `iostream.h` / `graphics.h` / whatever DOS-era API you can find.
 
 #### 8. I will not teach outdated software development patterns
 * Multiple classical development patterns were over the years integrated in various programming language, either as language or library features.
@@ -60,5 +60,5 @@ by providing up-to-date best practices for teaching.
 [homebrew]: https://brew.sh/
 [open_closed_principle]: https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle
 [RAII]: https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization
-[strategy]: https://pt.wikipedia.org/wiki/Strategy
-[visitor_pattern]: https://pt.wikipedia.org/wiki/Visitor_Pattern
+[strategy]: https://en.wikipedia.org/wiki/Strategy
+[visitor_pattern]: https://en.wikipedia.org/wiki/Visitor_Pattern
