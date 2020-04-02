@@ -1,5 +1,9 @@
 # The C++ Teaching Manifesto
 
+This document exists in multiple languages - thanks to the translators ! 
+* [English](https://github.com/jcelerier/cpp-teaching-manifesto/blob/master/README.md)
+* [Portuguese](https://github.com/cppbrasil/material-de-aprendizado/blob/master/manifesto-de-ensino-em-cpp.md)
+
 Teaching C++ is a hard task, for students as well as for teachers.
 This manifesto intends to ensure that this task is not made unintentionally harder for both parties, 
 by providing up-to-date best practices for teaching.
