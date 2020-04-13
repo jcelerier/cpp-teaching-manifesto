@@ -17,6 +17,8 @@ by providing up-to-date best practices for teaching.
 
 #### 2. I will teach the core concepts and values of C++
 * Value semantics.
+  * Especially over object semantics of languages such as Java / C#.
+  * Prefer automatic storage to dynamic storage (stack variables over `new` / `shared_ptr` / `unique_ptr` whenever possible).
 * Const-correctness.
 * Ownership and [RAII][RAII], resource management.
 * Zero-cost abstractions.
