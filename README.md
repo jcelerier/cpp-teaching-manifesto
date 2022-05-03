@@ -30,7 +30,7 @@ by providing up-to-date best practices for teaching.
 * [Collaborative Collection of C++ Best Practices](https://github.com/lefticus/cppbestpractices)
 
 #### 4. I will not teach using outdated revisions of the C++ standard.
-* ISO rules mandata that the *only* valid standard at a given point in time is the last one. We don't build new houses with electric plugs from 50 years ago.
+* ISO rules mandate that the *only* valid standard at a given point in time is the last one. We don't build new houses with electric plugs from 50 years ago.
 * C++ has a three years release cadence : by the time the students are on the job market, what was considered avant-garde during their classes will be mainstream.
 * It is not necessary to use non-released standards, but it can be interesting to at least look at them - that's the standards which will be in effect when the students are out of school ! 
 
